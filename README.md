@@ -1,2 +1,2 @@
-# Projects
-DS Projects
+# Data Science Projects
+
